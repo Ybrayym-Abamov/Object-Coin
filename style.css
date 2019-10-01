@@ -1,0 +1,19 @@
+body {
+    background-color: lightskyblue;
+}
+
+#Flipper {
+    background-color: gold;
+    padding: 5px 5px 5px 5px;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Cookie', cursive;
+    font-size: 60px
+}
+
+#Coin {
+    height: 100px;
+    width: 100px;
+}
